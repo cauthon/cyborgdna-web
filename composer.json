@@ -1,0 +1,14 @@
+{
+    "name": "cyborgdna/composer-web",
+    "description": "Yii install goes here yiisoft/yii2-app-basic ->",
+    "type": "yii",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Qyick Ben",
+            "email": "cauthon@me.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
